@@ -52,7 +52,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
    icon_pack: ai
-   link: uploads/hawkins_CV.pdf
+   link: 'uploads/hawkins_CV.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
